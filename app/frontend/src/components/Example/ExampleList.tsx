@@ -3,9 +3,9 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "What is included in my Northwind Health Plus plan that is not in standard?",
-    "What happens in a performance review?",
-    "What does a Product Manager do?"
+    "What were the key policy measures highlighted in the Central Bank of Sri Lanka's annual report for the fiscal year 2019 to address economic challenges?",
+    "Summarize the main findings or insights regarding the banking sector's performance from the latest Central Bank of Sri Lanka annual report?",
+    "In the context of monetary policy, what changes or updates were outlined in the Central Bank of Sri Lanka's annual report, particularly with regard to interest rates and exchange rates?"
 ];
 
 const GPT4V_EXAMPLES: string[] = [
